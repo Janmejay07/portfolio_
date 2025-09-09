@@ -285,7 +285,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
 
         <div className="text-center mt-12">
           <a
-            href="#"
+            href="https://github.com/Janmejay07"
             className={`inline-flex items-center space-x-2 px-8 py-3 rounded-full font-semibold transition-all duration-300 hover:scale-105 ${
               darkMode
                 ? "bg-gray-800 text-white hover:bg-gray-700"
